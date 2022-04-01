@@ -8,4 +8,4 @@
 * [6/3/2022] : https://github.com/ZenxDev/ListAndroidGameDump/blob/main/specialopsdump.zip?raw=true
 
 ### Game Name : Shadow Strike
-* [6/3/2022] : https://github.com/ZenxDev/ListAndroidGameDump/blob/main/shadowstrikedump.zip?raw=true
+* [1/4/2022] : https://github.com/ZenxDev/ListAndroidGameDump/blob/main/shadowstrikedump.zip?raw=true
